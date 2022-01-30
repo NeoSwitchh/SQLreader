@@ -1,0 +1,11 @@
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\sqlReader.exe
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\sqlReader.dll
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\sqlReader.deps.json
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\sqlReader.runtimeconfig.json
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\sqlReader.pdb
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\System.Data.SqlClient.dll
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abiyyu Dzaky M\source\repos\sqlReader\sqlReader\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
